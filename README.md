@@ -5,7 +5,7 @@ Features:
 
     Multi-language Support: The program can handle inputs in English, Spanish, and Russian, making it versatile for different users.
     Audio File Generation: The generated speech can be saved as an MP3 file, allowing users to listen to it at any time.
-    Simple User Interface: The program uses the command line for user input, making it easy to use without any complex installations.
+   
 
 Installation:
 
@@ -15,7 +15,7 @@ pip install gTTS
 
 Usage:
 
-    Run the script.
+   
     Enter the text you want to convert.
     Specify the language code ('en' for English, 'es' for Spanish, 'ru' for Russian).
     The audio file will be generated and played automatically.
